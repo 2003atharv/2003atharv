@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=2003atharv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/2003atharv/2003atharv/blob/output/github-contribution-grid-snake.gif)
