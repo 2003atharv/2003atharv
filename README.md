@@ -1,9 +1,7 @@
-
-Hi ![](https://media0.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif?cid=6c09b952aa8az6b3q9w1rt8uhsb5jlnvfm4fv8i48pcj8luc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-
 <p align="center">
   <img src="https://media0.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif?cid=6c09b952aa8az6b3q9w1rt8uhsb5jlnvfm4fv8i48pcj8luc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400">
 </p>
+Hi
 My name is Atharva Jangade
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
