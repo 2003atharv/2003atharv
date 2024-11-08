@@ -4,10 +4,7 @@
 Hi
 My name is Atharva Jangade
 ======================================================================================================================================
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
-
                             
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" style="max-width:100%; height:auto;">
+  <img src="https://user-images.githubusercontent.com/53935554/85947272-2861e480-b939-11ea-8bce-3b01c0478fce.jpg">
 </p>
