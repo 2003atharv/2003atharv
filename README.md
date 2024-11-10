@@ -10,6 +10,6 @@
 </div>
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2074515496992095767/ED6169908C62E9C53BB5FDED388DEDD863177373/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2074515496992095767/ED6169908C62E9C53BB5FDED388DEDD863177373/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" height="400">
 </p>
                             
