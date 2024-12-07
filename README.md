@@ -1,3 +1,8 @@
+<div align"center">
+
+![snake gif](https://github.com/2003atharv/2003atharv/blob/output/github-snake-dark.svg)
+</div>
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpeGVhZ2lwYWxtc29leDhyOWIwNGZkeWV5ZGhmbG5uaDU3dDRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=2003atharv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
@@ -13,3 +18,4 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2074515496992095767/ED6169908C62E9C53BB5FDED388DEDD863177373/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" height="400">
 </p>
                             
+
