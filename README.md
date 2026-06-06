@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2074515496992095767/ED6169908C62E9C53BB5FDED388DEDD863177373/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" height="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJoeHNyMjJwaXB4OHNsMHNvZWYyNG1xNndwd2tlbm10dW9wbHA2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" width="400" height="400">
 </p>
                             
 
